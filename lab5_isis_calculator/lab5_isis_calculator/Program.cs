@@ -21,7 +21,7 @@ namespace lab5_isis_calculator
             if (c == 1) Console.WriteLine(a + " + " + b + " = " + (a + b) + "\n");
             if (c == 2) Console.WriteLine(a + " – " + b + " = " + (a - b) + "\n");
             if (c == 3) Console.WriteLine(a + " × " + b + " = " + (a * b) + "\n");
-            if (c == 4) Console.WriteLine(a + " : " + b + " = " + (a / b) + "\n");
+            if (c == 4) if (b != 0) Console.WriteLine(a + " : " + b + " = " + (a / b) + "\n"); else { Console.Clear(); Console.WriteLine("ОШИБКА 1:\nДеление на 0."); }
             return;
         }
     }
