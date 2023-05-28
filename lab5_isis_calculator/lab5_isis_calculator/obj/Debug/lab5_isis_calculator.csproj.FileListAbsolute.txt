@@ -6,3 +6,11 @@ C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова
 C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\git\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.csproj.CoreCompileInputs.cache
 C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\git\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.exe
 C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\git\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.pdb
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\bin\Debug\lab5_isis_calculator.exe.config
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\bin\Debug\lab5_isis_calculator.exe
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\bin\Debug\lab5_isis_calculator.pdb
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.csproj.AssemblyReference.cache
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.csproj.CoreCompileInputs.cache
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.exe
+C:\Users\unfue\OneDrive\Документы\ЯГТУ\ИСИС (Самсонова Е. С.)\Лабораторная работа №5\А. А. Черепанов\GitHub\lr5_isis\lab5_isis_calculator\lab5_isis_calculator\obj\Debug\lab5_isis_calculator.pdb
